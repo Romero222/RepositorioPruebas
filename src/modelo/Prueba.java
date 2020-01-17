@@ -3,5 +3,6 @@ package modelo;
 
 
 public class Prueba {
-   int clase; 
+   private int Jonathan_R;
+   private int Mirian_R;
 }
